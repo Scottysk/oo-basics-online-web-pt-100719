@@ -21,7 +21,9 @@ end
     @condition = value
   end
   
-  def 
+  def condition
+    value
+  end
   
 
 end
