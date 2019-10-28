@@ -4,6 +4,8 @@ class Shoe
   
   BRANDS = []
   
+  def 
+  
   
   
   
