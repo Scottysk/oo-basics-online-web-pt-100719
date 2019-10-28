@@ -18,4 +18,4 @@ class Shoe
 end
 end
 
-boots = 
+boots = Shoe.new("Uggs")
