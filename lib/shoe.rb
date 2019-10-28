@@ -6,6 +6,7 @@ class Shoe
   
   def intitialize(brand)
     @brand = brand
+    unless brand
   
   
   
