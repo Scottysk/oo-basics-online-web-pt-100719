@@ -22,7 +22,7 @@ end
   end
   
   def condition
-    value
+    @condition
   end
   
 
