@@ -18,5 +18,7 @@ end
   end
   
   def condition
+    
+  end
 
 end
