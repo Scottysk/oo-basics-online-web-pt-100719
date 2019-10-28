@@ -16,6 +16,6 @@ class Shoe
   end
   
 end
-
-
 end
+
+boots = 
