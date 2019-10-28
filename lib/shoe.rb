@@ -19,7 +19,9 @@ end
   
   def condition=(value)
     @condition = value
-    
   end
+  
+  def 
+  
 
 end
