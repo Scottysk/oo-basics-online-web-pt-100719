@@ -10,6 +10,8 @@ class Shoe
     BRAND << @brand
   end
   
+  def.
+  
   
   
   
