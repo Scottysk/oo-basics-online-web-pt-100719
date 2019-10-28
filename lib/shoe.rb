@@ -4,7 +4,7 @@ class Shoe
   
   BRANDS = []
   
-  def intitialize
+  def intitialize(brand)
   
   
   
